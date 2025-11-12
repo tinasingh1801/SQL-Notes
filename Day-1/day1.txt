@@ -1,0 +1,2 @@
+what is database?
+What is Sql?
