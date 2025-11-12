@@ -52,3 +52,6 @@ alter table stu modify fees decimal(8,2);
 use dummy;
 
 
+#this is my new change
+use dummy;
+select * from customers;
