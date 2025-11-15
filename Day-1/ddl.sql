@@ -55,3 +55,6 @@ use dummy;
 #this is my new change
 use dummy;
 select * from customers;
+
+-- this is another change
+select * from actor;
